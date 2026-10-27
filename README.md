@@ -1,7 +1,7 @@
-# SORA BLOADCAST
+# ONDARA
 
-Instalador do **SORA BLOADCAST** e do **SORA SURF PRO** para Windows 10 e 11 (64 bits).
+Instalador do **ONDARA BROADCAST** e do **ONDARA SURF PRO** para Windows 10 e 11 (64 bits).
 
-**Baixar:** [SORA-BLOADCAST-Setup.exe](https://github.com/JEFFOCRUZ/sora-bloadcast-download/releases/latest/download/SORA-BLOADCAST-Setup.exe)
+**Baixar:** [ONDARA-Setup.exe](https://github.com/JEFFOCRUZ/ondara-download/releases/latest/download/ONDARA-Setup.exe)
 
-Planos, teste grátis e suporte: https://sora-bloadcast.netlify.app
+Planos, teste grátis e suporte: https://ondara-live.netlify.app
